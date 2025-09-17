@@ -1,8 +1,8 @@
 # dotfiles
 
-> [!IMPORTANT]Importante
-> debes agregar esta parte si 
-> te encuentras en wayland en la 
+> [!IMPORTANT]
+> debes agregar esta parte si
+> te encuentras en wayland en la
 > ruta:
 
 ```bash
@@ -15,4 +15,3 @@ export MOZ_ENABLE_WAYLAND=1
 export QT_QPA_PLATFORM=wayland
 
 ```
-
