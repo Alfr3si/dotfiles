@@ -84,6 +84,11 @@
   "keycolor": "green"
 },
 {
+  "type": "display",
+  "key": "󰍹 ",
+  "keycolor": "blue"
+},
+{
   "type": "custom",
   "format": "\u001b[90m├───────────────────────────────────────────────────────┤"
 },
@@ -116,7 +121,7 @@
   "paddingLeft": 24,
   "symbol": "circle",
   "block": {
-    "width": 10
+    "width": 12
   }
 },
 "break",
